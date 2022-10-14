@@ -1,5 +1,5 @@
 # ese519_lab2
-# Setup Guide-Ang Li
+# Setup Guide-Xuanang Chen
 E-mail: xuanangc@seas.upenn.edu
 
 Tested on:  
@@ -38,11 +38,11 @@ Note that you should change the default editor away from vim during installing. 
 
 ## Step2: Getting the SDK and examples
 
-    C:\Users\Ang Li\pico\Downloads> git clone -b master https://github.com/raspberrypi/pico-sdk.git 
-    C:\Users\Ang Li\pico\Downloads> cd pico-sdk
-    C:\Users\Ang Li\pico\Downloads\pico-sdk> git submodule update --init 
-    C:\Users\Ang Li\pico\Downloads\pico-sdk> cd ..
-    C:\Users\Ang Li\pico\Downloads> git clone -b master https://github.com/raspberrypi/pico-examples.git
+    C:\Users\Xuanang Chen\pico\Downloads> git clone -b master https://github.com/raspberrypi/pico-sdk.git 
+    C:\Users\Xuanang Chen\pico\Downloads> cd pico-sdk
+    C:\Users\Xuanang Chen\pico\Downloads\pico-sdk> git submodule update --init 
+    C:\Users\Xuanang Chen\pico\Downloads\pico-sdk> cd ..
+    C:\Users\Xuanang Chen\pico\Downloads> git clone -b master https://github.com/raspberrypi/pico-examples.git
 
 
 ## Step3: Building "Hello World" from Visual Studio Code  
